@@ -24,6 +24,17 @@ PickYours is a sleek and simple product management app built with **React Native
 
 ---
 
+### Folder Structure
+
+src/
+  ├── Assets/
+  │   └── ScreenShots/
+  ├── components/
+  ├── screens/
+  └── navigation/
+
+  ---
+
 ## 🖼️ Screenshots
 
 ### ➕ Add Product  
@@ -58,12 +69,3 @@ npx expo start
 
 # OR for React Native CLI
 npx react-native run-android
-
-### Folder Structure
-
-src/
-  ├── Assets/
-  │   └── ScreenShots/
-  ├── components/
-  ├── screens/
-  └── navigation/
